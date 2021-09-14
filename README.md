@@ -1,2 +1,2 @@
 # array-visualizer
-most commun array methods visualizer
+Most commun array methods visualizer
